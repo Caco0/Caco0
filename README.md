@@ -1,8 +1,8 @@
 # Olá Você que está me visitando 👋🏽
 
-## Eu sou **Rafael Fortunato Dametto** Desenvolvedor Frontend Jr.
+## Eu sou Rafael Fortunato Dametto Desenvolvedor Frontend Jr.
 
-### ✏️ Hoje atualmente estou a mudando de área de trabalho, saindo da administração de empresa e entrando na área de desenvolvimento Frontend
+### ✏️ Atualmente estou a mudando de área de trabalho, saindo da administração de empresa e entrando na área de desenvolvimento Frontend
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caco0&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caco0&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
@@ -19,22 +19,22 @@
 </div>
 </br>
 
-## 📖Atualmente estou estudando JavaScript desenvolvendo skills de logica de programação e orientada a objeto e também a sertificação AZ900 Microsoft Azure
+## 📖E também estudando JavaScript para desenvolvendo skills na lógica de programação orientada a objetos, em busca da certificação AZ900 Microsoft Azure
 
 
 ## Mais sobre mim! 🧔🏽
 
 Eu venho de uma carreira industrial técnica, onde trabalhei e desnvolvi habilidades profissionais tais como: </br>
-✏️ Trabalhar sempre em busca da Melhoria Continua </br>
+✏️ Trabalhar sempre em busca da Melhoria Contínua </br>
 ✏️ Inovação técnica e em skills pessoais e profissionais </br>
 ✏️ Priorização de tarefas em relação a urgência </br>
 ✏️ Diminuição dos riscos envolvidos, buscando sempre visar todos os possíveis problemas </br>
 ✏️ Trabalho em equipe priorizando as competencias profissionais e comportamentais de casa integrante do projeto </br>
 ✏️ Planejamento e organização de tarefas documentação, recursos etc. </br> 
 
-Todas essa competências e muitas mais foram desenvolvidas durante a carreira profissional industrial e administrativa, onde cada experiência se expressa como organização e melhor visão das necessidades do cliente e como alcança-las objetivando sempre o custo menor e a qualidade do serviço ou produto entregue ao cliente final, seja ele uma grande empresa Pessoa Jurídica ou Pessoa Física. </br></br>
-Como Objetivo estou me empenhando e entrar na área como Frontend Jr. para desenvolver mais essas skills e no decorrer do tempo ir adquirindo mais, tanto para suprir as necessidades do meu futuro contratante e também minhas próprias necessidades de aprendizado e desenvolvimento</br></br>
-Se você chegou até aqui, devo agradecer o seu tempo e faço um convite !</br>
+Todas essas competências e mais foram desenvolvidas durante a carreira profissional industrial e administrativa, onde cada experiência se expressa como organização e melhor visão das necessidades do cliente e como alcançá-las objetivando sempre o custo menor e a qualidade do serviço ou produto entregue ao cliente final, seja ele uma grande empresa, Pessoa Jurídica ou Física. </br></br>
+Com objetivo de entrar na área como Frontend Jr. estou me empenhando para desenvolver mais skills, tanto para suprir as necessidades do meu futuro contratante e também minhas próprias necessidades de aprendizado e desenvolvimento</br></br>
+Se você chegou até aqui, devo agradecer o seu tempo e faço um convite !
 Entre em contato e converse pessoalmente comigo!</br>
 
 ## Para entrar em contato 
