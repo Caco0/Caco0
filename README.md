@@ -5,7 +5,7 @@
 ### ✏️ Atualmente estou a mudando de área de trabalho, saindo da administração de empresa e entrando na área de desenvolvimento Frontend
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caco0&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caco0&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caco0&layout=donut-vertical&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
 </div>
 
 ## Resumo das Skills
