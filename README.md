@@ -21,7 +21,7 @@
 </div>
 </br>
 
-## 📖E também estudando JavaScript para desenvolvendo skills na lógica de programação orientada a objetos, em busca da certificação AZ900 Microsoft Azure
+## 📖E também estudando React e Bootcamp FullStack Java+Angular(Santander) para desenvolvimento de novas Skills
 
 
 ## Mais sobre mim! 🧔🏽
