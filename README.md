@@ -1,8 +1,8 @@
 # Olá Você que está me visitando 👋🏽
 
-## Eu sou Rafael Fortunato Dametto Desenvolvedor Frontend Jr.
+## Eu sou Rafael Fortunato Dametto Desenvolvedor Frontend Angular Jr.
 
-### ✏️ Atualmente estou a mudando de área de trabalho, saindo da administração de empresa e entrando na área de desenvolvimento Frontend
+### ✏️ Atualmente estou graduando em Tecnologia em Inteligência Artificial Aplicada pela PUCPR - CURITIBA
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caco0&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caco0&layout=donut-vertical&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
@@ -22,8 +22,6 @@
    <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 </br>
-
-## 📖E também estudando React e Bootcamp FullStack Java+Angular(Santander) para desenvolvimento de novas Skills
 
 
 ## Mais sobre mim! 🧔🏽
