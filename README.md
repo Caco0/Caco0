@@ -4,8 +4,8 @@
 
 ### ✏️ Atualmente estou graduando em Tecnologia em Inteligência Artificial Aplicada pela PUCPR - CURITIBA
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caco0&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caco0&layout=donut-vertical&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Caco0&show_icons=true&theme=radical"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caco0&layout=donut-vertical&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
 </div>
 
 ## Resumo das Skills
